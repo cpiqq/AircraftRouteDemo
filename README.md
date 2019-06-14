@@ -9,5 +9,6 @@ open Assets/Scenes/SampleScene
 - 最短路线算法用的大圆航线：https://baike.baidu.com/item/%E5%A4%A7%E5%9C%86%E8%88%AA%E7%BA%BF
 - 地球半径 是 20 个 unit。
 - 随机的站点的任何两点间的直线距离不会小于5.
+- 航线用的linerender绘制，每隔5度一个路径点。
 - 相机在飞机斜后方跟随着飞机。
-- 
+- ui 用红字标识出 start 和 end 站点 .
