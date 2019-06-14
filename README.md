@@ -12,3 +12,5 @@ open Assets/Scenes/SampleScene
 - 航线用的linerender绘制，每隔5度一个路径点。
 - 相机在飞机斜后方跟随着飞机。
 - ui 用红字标识出 start 和 end 站点 .
+
+![demo](./demo.gif)
