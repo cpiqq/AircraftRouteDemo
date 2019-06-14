@@ -1,0 +1,10 @@
+AircraftRouteDemo/Library
+AircraftRouteDemo/Logs
+AircraftRouteDemo/Temp
+AircraftRouteDemo.sln
+AircraftRouteDemo/Assembly-CSharp-Editor.csproj
+AircraftRouteDemo/Assembly-CSharp.csproj
+AircraftRouteDemo/.idea
+AircraftRouteDemo/obj/Debug
+AircraftRouteDemo/Assets/Plugins/Editor/JetBrains
+JetBrains.meta
